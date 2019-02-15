@@ -1,0 +1,9 @@
+{
+  "name": "h5-mobile-clip-avatar",
+  "version": "0.1.0",
+  "main": "index.js",
+  "repository": "https://github.com/CloseGillter47/h5-mobile-clip-avatar.git",
+  "author": "kuroko <kuroko.link@aliyun.com>",
+  "license": "MIT",
+  "private": false
+}
